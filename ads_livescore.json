@@ -1,0 +1,23 @@
+{
+  "master_ads_enabled": true,
+  "ad_types": {
+    "app_open_enabled": true,
+    "interstitial_enabled": true,
+    "native_list_enabled": true,
+    "native_detail_enabled": true,
+    "native_tv_enabled": true
+  },
+  "ad_units": {
+    "app_open_id": "ca-app-pub-4143989343749459/5470657324",
+    "interstitial_id": "ca-app-pub-4143989343749459/6344755299",
+    "native_id": "ca-app-pub-4143989343749459/7672462020",
+    "banner_id": "ca-app-pub-4143989343749459/5730869590"
+  },
+  "rules": {
+    "interstitial_click_threshold": 3,
+    "interstitial_cooldown_seconds": 75,
+    "app_open_cooldown_minutes": 4,
+    "native_first_position": 4,
+    "native_interval": 8
+  }
+}
