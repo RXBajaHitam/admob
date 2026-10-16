@@ -18,6 +18,8 @@
     "interstitial_cooldown_seconds": 75,
     "app_open_cooldown_minutes": 4,
     "native_first_position": 4,
-    "native_interval": 8
+    "native_interval": 5,
+    "native_tv_first_position": 2,
+    "native_tv_interval": 3
   }
 }
