@@ -4,10 +4,10 @@
   "banner_enabled": true,
   "interstitial_enabled": true,
   "native_enabled": true,
-  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-  "banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "native_id": "ca-app-pub-3940256099942544/2247696110",
-  "interstitial_interval_seconds": 60,
+  "app_open_id": "ca-app-pub-4143989343749459/5108573551",
+  "banner_id": "ca-app-pub-4143989343749459/7872186894",
+  "interstitial_id": "ca-app-pub-4143989343749459/4239073961",
+  "native_id": "ca-app-pub-4143989343749459/2071112569",
+  "interstitial_interval_seconds": 30,
   "interstitial_click_threshold": 2
 }
