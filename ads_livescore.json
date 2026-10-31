@@ -14,8 +14,8 @@
     "banner_id": "ca-app-pub-4143989343749459/5730869590"
   },
   "rules": {
-    "interstitial_click_threshold": 3,
-    "interstitial_cooldown_seconds": 75,
+    "interstitial_click_threshold": 2,
+    "interstitial_cooldown_seconds": 30,
     "app_open_cooldown_minutes": 4,
     "native_first_position": 4,
     "native_interval": 5,
