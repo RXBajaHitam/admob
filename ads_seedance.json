@@ -1,7 +1,7 @@
 {
-  "show_ads": true,
+  "show_ads": false,
   "show_app_open": true,
-  "show_banner": true,
+  "show_banner": false,
   "show_interstitial": true,
   "show_native": true,
   "app_open_id": "ca-app-pub-6658570461438784/2059425691",
@@ -10,5 +10,5 @@
   "native_id": "ca-app-pub-6658570461438784/8473624951",
   "interstitial_cooldown_seconds": 45,
   "builder_interstitial_cooldown_seconds": 45,
-  "interstitial_clicks_threshold": 2
+  "interstitial_clicks_threshold": 3
 }
