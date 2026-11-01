@@ -1,0 +1,14 @@
+{
+  "show_ads": true,
+  "show_app_open": true,
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_native": true,
+  "app_open_id": "ca-app-pub-6658570461438784/2059425691",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_id": "ca-app-pub-6658570461438784/3625669134",
+  "native_id": "ca-app-pub-6658570461438784/8473624951",
+  "interstitial_cooldown_seconds": 45,
+  "builder_interstitial_cooldown_seconds": 45,
+  "interstitial_clicks_threshold": 2
+}
