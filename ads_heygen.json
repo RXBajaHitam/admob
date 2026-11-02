@@ -1,5 +1,5 @@
 {
-  "enableAppOpen": true,
+  "enableAppOpen": false,
   "enableInterstitial": true,
   "enableNative": true,
   "appOpenAdId": "ca-app-pub-3940256099942544/9257395921",
