@@ -1,5 +1,5 @@
 {
-  "show_ads": false,
+  "show_ads": true,
   "show_app_open": true,
   "show_banner": false,
   "show_interstitial": true,
