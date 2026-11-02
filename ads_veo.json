@@ -3,11 +3,11 @@
   "enableBanner": false,
   "enableInterstitial": true,
   "enableNative": true,
-  "appOpenAdId": "ca-app-pub-3940256099942544/9257395921",
+  "appOpenAdId": "ca-app-pub-4143989343749459/7640804916",
   "bannerAdId": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
-  "nativeAdId": "ca-app-pub-3940256099942544/2247696110",
+  "interstitialAdId": "ca-app-pub-4143989343749459/7677192884",
+  "nativeAdId": "ca-app-pub-4143989343749459/2276797599",
   "interstitialCooldownSeconds": 45,
-  "clickCooldownSeconds": 60,
+  "clickCooldownSeconds": 45,
   "clickInterval": 2
 }
