@@ -2,9 +2,9 @@
   "enableAppOpen": false,
   "enableInterstitial": false,
   "enableNative": false,
-  "appOpenAdId": "ca-app-pub-3940256099942544/9257395921",
-  "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
-  "nativeAdId": "ca-app-pub-3940256099942544/2247696110",
-  "interstitialCooldownSeconds": 60,
-  "clickInterval": 2
+  "appOpenAdId": "ca-app-pub-6658570461438784/6765568875",
+  "interstitialAdId": "ca-app-pub-6658570461438784/5168699560",
+  "nativeAdId": "ca-app-pub-6658570461438784/6501844998",
+  "interstitialCooldownSeconds": 45,
+  "clickInterval": 3
 }
