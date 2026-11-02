@@ -1,0 +1,13 @@
+{
+  "enableAppOpen": true,
+  "enableBanner": false,
+  "enableInterstitial": true,
+  "enableNative": true,
+  "appOpenAdId": "ca-app-pub-3940256099942544/9257395921",
+  "bannerAdId": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialAdId": "ca-app-pub-3940256099942544/1033173712",
+  "nativeAdId": "ca-app-pub-3940256099942544/2247696110",
+  "interstitialCooldownSeconds": 45,
+  "clickCooldownSeconds": 60,
+  "clickInterval": 2
+}
