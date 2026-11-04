@@ -15,10 +15,10 @@
   },
   "rules": {
     "interstitial_click_threshold": 3,
-    "interstitial_cooldown_seconds": 45,
+    "interstitial_cooldown_seconds": 30,
     "app_open_cooldown_minutes": 1,
-    "native_first_position": 4,
-    "native_interval": 5,
+    "native_first_position": 3,
+    "native_interval": 3,
     "native_tv_first_position": 2,
     "native_tv_interval": 3,
     "native_timeline_first_position": 3,
