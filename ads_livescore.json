@@ -1,5 +1,10 @@
 {
   "master_ads_enabled": true,
+  "geo_blocking": {
+    "is_enabled": true,
+    "blocked_countries": ["GT", "MA", "BT", "NP", "PK", "EG", "BD", "IN"],
+    "tier1_countries": ["CA", "GB", "DE", "US", "BE"]
+  },
   "ad_types": {
     "app_open_enabled": true,
     "interstitial_enabled": true,
