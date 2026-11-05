@@ -1,0 +1,14 @@
+{
+  "ads_enabled": true,
+  "app_open_ad_enabled": true,
+  "interstitial_ad_enabled": true,
+  "native_ad_enabled": true,
+  "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_interval_seconds": 60,
+  "affiliate_url": "https://emergentai.dev/?utm_source=vibecoding_guide&utm_medium=app&utm_campaign=builder",
+  "affiliate_button_text": "Start Vibe-Coding (Free)",
+  "announcement_title": "Emergent AI Protocol Active",
+  "min_version_code": 1
+}
