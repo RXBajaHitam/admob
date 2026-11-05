@@ -6,7 +6,7 @@
   "app_open_id": "ca-app-pub-4143989343749459/4046495053",
   "interstitial_id": "ca-app-pub-4143989343749459/2733413382",
   "native_id": "ca-app-pub-4143989343749459/9535621309",
-  "interstitial_interval_seconds": 60,
+  "interstitial_interval_seconds": 30,
   "affiliate_url": "https://app.emergent.sh/home",
   "affiliate_button_text": "Start Vibe-Coding (Free)",
   "announcement_title": "Emergent AI Protocol Active",
