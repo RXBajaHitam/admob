@@ -1,0 +1,10 @@
+{
+  "show_app_open": true,
+  "show_interstitial": true,
+  "show_native": true,
+  "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_cooldown_seconds": 60,
+  "official_source_url": "https://www.gov.br/mec/pt-br/pe-de-meia"
+}
