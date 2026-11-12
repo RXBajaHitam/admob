@@ -1,5 +1,8 @@
 {
   "show_ads": true,
+  "open_app_id": "",
   "banner_id": "ca-app-pub-4143989343749459/5931616933",
-  "interstitial_id": "ca-app-pub-4143989343749459/2551996315"
+  "interstitial_id": "ca-app-pub-4143989343749459/2551996315",
+  "interstitial_first_delay_minutes": 5,
+  "interstitial_interval_minutes": 5
 }
