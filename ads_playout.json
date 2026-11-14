@@ -2,8 +2,8 @@
   "isAppOpenEnabled": true,
   "isInterstitialEnabled": true,
   "isNativeEnabled": true,
-  "appOpenAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/AAAAAAAAAA",
-  "interstitialAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/BBBBBBBBBB",
-  "nativeAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/CCCCCCCCCC",
+  "appOpenAdId": "ca-app-pub-4143989343749459/5074878955",
+  "interstitialAdId": "ca-app-pub-4143989343749459/8473012577",
+  "nativeAdId": "ca-app-pub-4143989343749459/6062607702",
   "interstitialIntervalSeconds": 30
 }
