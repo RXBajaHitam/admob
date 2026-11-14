@@ -1,0 +1,9 @@
+{
+  "isAppOpenEnabled": true,
+  "isInterstitialEnabled": true,
+  "isNativeEnabled": true,
+  "appOpenAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/AAAAAAAAAA",
+  "interstitialAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/BBBBBBBBBB",
+  "nativeAdId": "ca-app-pub-XXXXXXXXXXXXXXXX/CCCCCCCCCC",
+  "interstitialIntervalSeconds": 30
+}
