@@ -1,10 +1,10 @@
 {
-  "enableAppOpen": false,
-  "enableInterstitial": false,
-  "enableNative": false,
+  "enableAppOpen": true,
+  "enableInterstitial": true,
+  "enableNative": true,
   "appOpenAdId": "ca-app-pub-6658570461438784/6765568875",
   "interstitialAdId": "ca-app-pub-6658570461438784/5168699560",
   "nativeAdId": "ca-app-pub-6658570461438784/6501844998",
-  "interstitialCooldownSeconds": 45,
+  "interstitialCooldownSeconds": 30,
   "clickInterval": 3
 }
