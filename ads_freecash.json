@@ -1,9 +1,9 @@
 {
-  "app_open_enabled": true,
+  "app_open_enabled": false,
   "app_open_ad_id": "ca-app-pub-4143989343749459/7257037788",
-  "interstitial_enabled": true,
+  "interstitial_enabled": false,
   "interstitial_ad_id": "ca-app-pub-4143989343749459/9392246531",
-  "native_enabled": true,
+  "native_enabled": false,
   "native_ad_id": "ca-app-pub-4143989343749459/4302803472",
   "interstitial_cooldown_seconds": 30,
   "coin_to_usd_rate": 0.001
