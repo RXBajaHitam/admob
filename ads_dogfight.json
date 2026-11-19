@@ -1,0 +1,12 @@
+{
+  "admob_banner": "ca-app-pub-3940256099942544/9214589741",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_interval_seconds": 90,
+  "promo_active": false,
+  "promo_is_extreme": false,
+  "promo_title": "New Update Available!",
+  "promo_message": "Play our latest offline action game with HD graphics and smooth controls.",
+  "promo_url": "market://details?id=com.kioseok.prosoccer2027",
+  "promo_btn_text": "Download Now"
+}
